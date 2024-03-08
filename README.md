@@ -1,2 +1,2 @@
 # SIG
-Praktikum matakuliah Sistem Informasi Geografis
+Latihan Praktikum matakuliah Sistem Informasi Geografis
